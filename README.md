@@ -1,5 +1,5 @@
 # Skills-me.ga site
 
-This directory contains the [skills-ma.ga](http://skills-me.ga/) site
+This directory contains the [skills-me](http://skills-me.github.io/) site
 
 :wink:
